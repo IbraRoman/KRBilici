@@ -81,6 +81,7 @@
     <Compile Include="WinFolder\AddProvider.xaml.cs">
       <DependentUpon>AddProvider.xaml</DependentUpon>
     </Compile>
+    <Compile Include="WinFolder\Class1.cs" />
     <Compile Include="WinFolder\Delivery.xaml.cs">
       <DependentUpon>Delivery.xaml</DependentUpon>
     </Compile>
